@@ -1,0 +1,46 @@
+_repo: Derroteros-y-viages---la-Ciudad-Encantada---de-los-C-sares.Que-se-creia-existiese-en-la-Cordi__13458
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Angelis, Pedro de
+    alias: De Angelis, Pedro
+    birthdate: 1784
+    deathdate: 1859
+    gutenberg_agent_id: '5056'
+    url: http://www.gutenberg.org/2009/agents/5056
+    wikipedia: http://es.wikipedia.org/wiki/Pedro_de_Angelis
+description: ''
+gutenberg_issued: '2004-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13458'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Argentina -- Description and travel'
+- !lcc 'F3051'
+- !lcsh 'Ciudad de los Césares (Legendary place)'
+- !lcsh 'Chile -- Description and travel'
+- !lcc 'F2801'
+tableOfContents: Derrotero de un viage desde Buenos Aires á los Césares, por el Tandil
+  y el Volcan ... comunicado á la corte de Madrid, en 1707, por S.A. de Roxas -- Carta
+  de José Cardiel ... sobre los descubrimientos de las tierras patagónicas, en lo
+  que toca á los Césares (11 de agosto de 1746) -- Capitulo de una carta del P.P.
+  Lozano ... sobre los Césares, que dicen están poblados en el estrecho de Magallanes
+  -- Derrotero desde la ciudad de Buenos Aires hasta la de los Césares, que por otro
+  nombre llaman la Ciudad Encantada, por T. Falkner -- Relación de las noticias adquiridas
+  sobre una ciudad grande de españoles, que hay entre nos indios, al sud de Valdivia
+  ... por I. Pinuer -- Copia de la carta escrita por A. de Jauregui -- Nuevo descubrimiento
+  preparado por el gobernador de Valdivia el año de 1777 -- Declaración del capitan
+  F. Villagran, sobre la ciudad de los Césares -- Informe y lictámen del fiscal de
+  Chile sobre las ciudades de los Césares, y los arbítrios que se deberian emplear
+  para descubrirlas.
+title: 'Derroteros y viages à la Ciudad Encantada, ó de los Césares.
+
+  Que se creia existiese en la Cordillera, al sud de Valdivia.'
+url: http://www.gutenberg.org/ebooks/13458
